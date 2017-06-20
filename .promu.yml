@@ -1,5 +1,5 @@
 repository:
-    path: github.com/reachlin/sensu_exporter
+    path: github.com/lszlkss/sensu_exporter
 build:
     flags: -a -tags netgo
     ldflags: |
